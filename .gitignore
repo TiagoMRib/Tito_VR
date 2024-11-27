@@ -68,9 +68,6 @@ Desktop.ini
 *.temp
 *.backup
 
-# Unity auto-generated meta files
-*.meta
-
 # Exclude Lightmap data if not shared
 /Assets/**/LightingData.asset
 
