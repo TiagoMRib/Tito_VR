@@ -1,0 +1,34 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "DogControls",
+            "id": "e5b04dc0-7429-4137-b9a8-5eb2ec822aa5",
+            "actions": [
+                {
+                    "name": "Grab",
+                    "type": "Button",
+                    "id": "79e425b5-ad09-4692-a2a6-496b16c46bfe",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d6c5f388-12d7-4f6d-a3ff-ad63b62b1bdc",
+                    "path": "<XRController>{RightHand}/{TriggerButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Grab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
