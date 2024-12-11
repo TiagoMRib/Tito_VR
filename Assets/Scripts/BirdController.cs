@@ -5,7 +5,11 @@ public class BirdController : MonoBehaviour
     public Animator animator; // Reference to bird Animator
     public Transform[] flightPoints; // Set of points to fly toward
     public float flySpeed = 5f; // Speed of flight
-    public float turnSpeed = 5f; // Speed of rotation
+    public float turnSpeed = 5f;
+
+    public AudioSource audioSource; // Reference to the AudioSource
+    public AudioClip idleClip; // Idle sound clip
+    public AudioClip flyClip;  // Fly sound clip
 
     private bool isFlying = false;
     private int currentFlightPoint = 0;
@@ -17,6 +21,9 @@ public class BirdController : MonoBehaviour
     {
         // Set a random interval for the first idle-to-eat transition
         idleInterval = Random.Range(3f, 7f);
+        
+        // Play idle sound when bird starts idle
+        PlayIdleSound();
     }
 
     void Update()
@@ -33,9 +40,8 @@ public class BirdController : MonoBehaviour
 
         if (idleTimer >= idleInterval)
         {
-            // Trigger the eat animation
+            // Trigger the eat animation and play eat sound
             animator.SetTrigger("Eat");
-
             // Reset the timer and pick a new random interval
             idleTimer = 0f;
             idleInterval = Random.Range(3f, 7f);
@@ -48,6 +54,7 @@ public class BirdController : MonoBehaviour
         {
             isFlying = true;
             animator.SetTrigger("Fly"); // Start flying animation
+            PlayFlySound();
             StartFlying();
         }
     }
@@ -67,7 +74,6 @@ public class BirdController : MonoBehaviour
     {
         while (Vector3.Distance(transform.position, target) > 0.1f)
         {
-            // Move toward the target
             transform.position = Vector3.MoveTowards(transform.position, target, flySpeed * Time.deltaTime);
 
             // Calculate the direction to the target
@@ -92,4 +98,28 @@ public class BirdController : MonoBehaviour
             Destroy(gameObject); // Birds vanish after flying away
         }
     }
+
+    // Play the idle sound when the bird starts idling
+    void PlayIdleSound()
+    {
+        if (audioSource && idleClip)
+        {
+            audioSource.clip = idleClip;
+            audioSource.loop = true; // Loop idle sound
+            audioSource.Play();
+        }
+    }
+
+    // Play the flying sound when the bird starts flying
+    void PlayFlySound()
+    {
+        if (audioSource && flyClip)
+        {
+            audioSource.clip = flyClip;
+            audioSource.loop = false; // Flying sound is usually one-off
+            audioSource.Play();
+        }
+    }
+
+    
 }
