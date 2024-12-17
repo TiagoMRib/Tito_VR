@@ -18,6 +18,17 @@ public class DayNightCycle : MonoBehaviour
     public float verticalRadius = 70f; // Vertical radius of the ellipse
     public float offsetX = 30f; // Horizontal offset for the sun's path
 
+
+    void Start()
+    {
+        // Set the initial game time to sunrise
+        currentTime = timePerCycle * 0.3f;
+
+        // Update lighting immediately to reflect the initial time
+        UpdateLighting();
+    }
+
+
     void Update()
     {
         // Determine if we are skipping
