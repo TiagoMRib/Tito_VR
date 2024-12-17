@@ -8,8 +8,8 @@ public class DayNightCycle : MonoBehaviour
     public float fullDayLength = 24f; // Length of a full day in seconds
     public float timeScale = 1f; // Speed multiplier for time progression
 
-    private float currentTime = 0f; // Current time in the day cycle
-    private float timePerCycle = 24f; // 24 hours in a cycle
+    public float currentTime = 0f; // Current time in the day cycle
+    public float timePerCycle = 24f; // 24 hours in a cycle
     private float targetTime = -1f; // Target time for smooth skipping
     private float skipSpeedMultiplier = 10f; // Speed multiplier during skip
 
