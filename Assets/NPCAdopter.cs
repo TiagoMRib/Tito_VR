@@ -103,7 +103,7 @@ public class NPCAdopter : MonoBehaviour
     {
         // Load new scene
         Debug.Log("Game Over: Player has been picked up!");
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("MainMenu");
 
     }
 }
