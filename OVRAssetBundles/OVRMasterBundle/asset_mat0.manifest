@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3533550887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0c76ae464868dd5609c01c17ea62fe7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c0c76ae464868dd5609c01c17ea62fe7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Door2.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Sideway.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Street.009.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Door_01.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/phone booth texture.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Way.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 4.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Leaf.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Fire escape.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/railing.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/bus stop sign texture.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/glass.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/stone 1.005.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/air.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Window_frames_01.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Sign_stop.mat
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Street.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/SideWalk.001.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Door_frame.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Window_board.mat
+- Assets/Samples/CityPack/Materials/traffic light/Green lighting.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/grass walkWay.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/K1.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Floor.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/traffic light main.002.mat
+- Assets/Samples/Bublisher/3D Stylized Animated Dogs Kit/Materials/3D Stylized Animated
+  Dogs Kit.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Metal1.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/flower 1 A.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_shader0

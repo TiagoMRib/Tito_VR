@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 2412513164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a52184137ae3e094a5b09df5aa0bd48d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a52184137ae3e094a5b09df5aa0bd48d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.core/Materials/BasicHandMaterial.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/anyColors.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/flap 2.mat
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Materials/Material.007.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/A2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/door1.mat
+- Assets/Samples/CityPack/Materials/color_windows/Windows no light.mat
+- Assets/Samples/CityPack/Materials/Day.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Door_02.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/house 2.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/traffic light texture.mat
+- Assets/Samples/CityPack/Meshes,textures/Letters FBX/Materials/No Name.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Power_poles.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/SideWalk.009.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/sstairs.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Stone_01.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Material.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Stone_03.mat
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Materials/Material.006.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Material.mat
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusMATphong_right.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/phone botth.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/flower 3.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light 2 a .002.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/shopping cart.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Grid_02.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/H3.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Windows_03.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/dirt walkWay.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/frame 2.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_shader0

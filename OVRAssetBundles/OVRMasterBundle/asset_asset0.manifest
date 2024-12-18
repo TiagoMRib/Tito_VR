@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4180719313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ecc348daf3d0af05b48a8922dbf0a33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc28b7adf343c0b5d21b44ebc2703253
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ecc348daf3d0af05b48a8922dbf0a33
+HashAppended: 0
+ClassTypes:
+- Class: 238
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/City/NavMesh-RoadNav 1.asset
+- Assets/Scenes/City/NavMesh-NavSurface.asset
+- Assets/Scenes/City/NavMesh-SidewalkNav 1.asset
+Dependencies: []

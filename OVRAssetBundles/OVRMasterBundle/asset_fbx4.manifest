@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 482468785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05f970aef7ab30169088cb0d7b2d8250
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2740b6e9c644236d34edbe98df04b981
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 05f970aef7ab30169088cb0d7b2d8250
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/electrcity box.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Bin.fbx
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Lamp 4.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_10.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_Z.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/traffic_warning_stand.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Hydrant.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/trashBag.fbx
+- Assets/Samples/CityPack/Meshes,textures/Letters FBX/Letter_I.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Mail_box.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Fire_department.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_Q.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Big_trash_bin.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_W.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/plant 1.fbx
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Shop_C.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/street lamp 2.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/mayonnaiseKetchup.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Fence_B_1.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Hospital_sign.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Traffic_light_3.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_11.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/StreetSellerStand.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/air conditioner wall.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_12.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_N.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Wall 2.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_E.fbx
+- Assets/Samples/Bublisher/3D Stylized Animated Dogs Kit/Models/chihuahua.fbx
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat10
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat11
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat12
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat13
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat14
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat5
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat6
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat7
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat8
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat9

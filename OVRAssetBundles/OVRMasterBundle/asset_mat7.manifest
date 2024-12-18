@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2846531423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86d6593e77b9b39415843b0d8727cc84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 86d6593e77b9b39415843b0d8727cc84
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light  2 c.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Sideway.005.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/door 2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/doori.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Door_02.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/stone 1.001.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/b.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/fence c.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Fire_escape_03.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/A3.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Sideway.013.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Windows_C.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Windows.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Can_cola 2.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/main_01.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Mail_box.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Windows_02.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/air conditioner.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/bb.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/congregate.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/electrcity box.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/stone 2.001.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/K2.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Info_sign_02.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Facade.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Bin.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/wood.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/platt 2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Wood.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Roof_02.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2

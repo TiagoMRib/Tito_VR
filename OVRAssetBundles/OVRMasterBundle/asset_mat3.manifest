@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1353594825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d1f404575fcb75e88ae7b173a57cff4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7d1f404575fcb75e88ae7b173a57cff4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Materials/Colors_buildings/J3.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Street.007.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/door 4.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Fence_B_2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/stairs.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Dirt.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/fire_escape.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/trashbag.mat
+- Assets/Samples/CityPack/Materials/traffic light/Red lighting.mat
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Materials/Material.009.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light 2 b.002.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Frames.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/hedge.mat
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Materials/Material.004.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Stone_02.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/cola_machine_texture.mat
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Window_frame.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Sideway.007.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Pot.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Bush 2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Ouside.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Stone_01.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/water tank texture.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Windows_B.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/door  1.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Facade_03.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/shopping cart texture.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Street.006.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 6.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_tga0

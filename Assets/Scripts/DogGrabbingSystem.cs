@@ -1,8 +1,9 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
+//using UnityEngine.InputSystem;
 
 public class DogGrabSystem : MonoBehaviour
 {
+    /*
     public Transform mouthTransform; // Reference to the "mouth" transform
     public InputActionReference grabAction; // Reference to the grab input action
     public InputActionReference eatAction; // Reference to the eat input action
@@ -118,4 +119,5 @@ public class DogGrabSystem : MonoBehaviour
             Debug.Log("Hot dog eaten!");
         }
     }
+    */
 }

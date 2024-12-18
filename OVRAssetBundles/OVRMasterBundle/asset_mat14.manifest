@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1875556651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5af1f888b8859164651cdd2d256e436c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5af1f888b8859164651cdd2d256e436c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Materials/Material.003.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/B3.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/gas pump.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Sideway.006.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light 1 b.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Roof_01.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/stone 1.002.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/door 1.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/K10.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0

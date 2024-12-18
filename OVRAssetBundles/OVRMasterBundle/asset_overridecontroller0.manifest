@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 262082390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6075015dcb4f8c651abe2138312d65dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8af4f908a200f226f5242b0f38dfd85a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6075015dcb4f8c651abe2138312d65dd
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/Bublisher/3D Stylized Animated Dogs Kit/Animator Controllers/ChihuahuaOverrideController.overrideController
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx4

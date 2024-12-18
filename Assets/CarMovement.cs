@@ -61,6 +61,7 @@ public class CarMovement : MonoBehaviour
         Vector3 targetDirection = currentDestination - transform.position;
         Vector3 moveDirection = Vector3.ProjectOnPlane(targetDirection, Vector3.up);
 
+         /*
         if (moveDirection.magnitude > 0.1f)
         {
             Quaternion targetRotation = Quaternion.LookRotation(moveDirection);
@@ -70,6 +71,7 @@ public class CarMovement : MonoBehaviour
             wheels[0].localRotation = Quaternion.Euler(0, Mathf.Clamp(steerAngle, -30f, 30f), 0); // Front-left
             wheels[1].localRotation = Quaternion.Euler(0, Mathf.Clamp(steerAngle, -30f, 30f), 0); // Front-right
         }
+        */
     }
 
     void MoveCar()

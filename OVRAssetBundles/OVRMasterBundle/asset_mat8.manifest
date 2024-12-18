@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 4059963523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96a7456244ac91770f386b925afe79cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 96a7456244ac91770f386b925afe79cb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/traffic warning stand
+  texture.mat
+- Assets/Materials/MoonMaterial.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/police.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Fireleader.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/BurgerShop_sign.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Hostpital.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Facade_01.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/flap 1.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/BurgerSho_Sign.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Flower 1 blue mix.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/bumb.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/J1.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/H2.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/drain 2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/facade.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/roll.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/I3.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/GlassCola.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Bus stop texture.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/traffic_warning_stand.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/trashcan.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/SideWalk.013.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Grass.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/gold.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/grey.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 19.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/I1.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/traffic obj.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/ATM.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/J2.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4256423946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1527e28af74859471fc922c8b30dab2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1527e28af74859471fc922c8b30dab2e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Flower 1 red 1.png
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Police_station_texture.png
+- Assets/Materials/SunPNG.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/plant 1 texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/hedge 1.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_r_lo_BaseColor.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/grass 2.png
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/grid.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Flower 1 blue mix 1.png
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_i_3Texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Flower 1 yellow 1.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/bus stop pole texture 1.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/ATM texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/traffic_OBJ.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Fence_B_2.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/trash bin texture.png
+Dependencies: []

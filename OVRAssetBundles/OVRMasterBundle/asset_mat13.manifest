@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1513332280
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cd0ca7ae15a5fdee76026289e9c622c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5cd0ca7ae15a5fdee76026289e9c622c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Food_seller_stand_textureAD.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/bush.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/tree leaf.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/bench.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/windows 2.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/G3.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Facade1.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Sideway.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/grids.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Red.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Door_04.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Mailbox-texture.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/I2.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/G1.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/ATM texture.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light 2 a_.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/G2.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/StreetSellerStand AD.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/SideWalk.008.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Windows_A.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/stone 2.005.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/wood pot.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Platt 1.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Roof_03.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/C3.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/congregate_02.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Door_01.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/shop 1.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/SideWalk.007.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3

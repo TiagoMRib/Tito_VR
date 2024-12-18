@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 3496491069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 781d98a87188ba1a3d4b11dbce8bd9d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c0e00cfb9c8873b3a2ae9a0bf437df32
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 781d98a87188ba1a3d4b11dbce8bd9d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_J.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Hospital.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/stone 1.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/bench.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/stone 4.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/air conditioner roof.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Right.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_07.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Parking_barrier.fbx
+- Assets/Ch31_nonPBR@Breathing Idle.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Hotdog.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/WalkWay_01.fbx
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Lamp 3.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/traffic_obj.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/StoneWay_02.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/BurgerSho_Sign.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Pot_tree.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/hedge.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_T.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Can_drink.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_I_2.fbx
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Lamp 2.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/stone pot.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Parking_checkOut.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_M.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Power_poles.fbx
+- Assets/Samples/CityPack/Meshes,textures/Letters FBX/Letter_S.fbx
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat10
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat11
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat12
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat13
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat14
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat5
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat6
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat7
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat8
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat9
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_tga0

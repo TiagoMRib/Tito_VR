@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1268670883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8afaf5d3cc2b04d89b3159b9ac30c46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e8afaf5d3cc2b04d89b3159b9ac30c46
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/NPCAnim.controller
+- Assets/Prefabs/Critters/Animations/Chihuahua_Animator_Controler.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSLeftAnimation.controller
+- Assets/Samples/Bublisher/3D Stylized Animated Dogs Kit/Animator Controllers/Dog_Animator_Controler.controller
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Animation/MetaQuestTouchPlusLeftAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProRightAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2LeftAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Animation/OculusTouchRiftRightAnimation.controller
+- Assets/Samples/Quirky Series Ultimate/FREE/Animations/AC_Sparrow.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSRightAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
+- Assets/Prefabs/Critters/Animations/Bird_Animator.controller
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProLeftAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Animation/MetaQuestTouchPlusRightAnimation.controller
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Animation/OculusTouchRiftLeftAnimation.controller
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx5

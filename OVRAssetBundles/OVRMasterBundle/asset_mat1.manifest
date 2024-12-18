@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1375202225
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 464dedda8d2ce8733400f2a41ccb939d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 464dedda8d2ce8733400f2a41ccb939d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Grid_01.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/flower 1 A 3.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Window_Frames.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Windows 1.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Fence_B_2.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/color.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 3.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Door_04.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light 3 a.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/stone 2.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Shop_c.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Hydrant.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/white.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/y_2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Material.002.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Window_frames.001.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Police_station_texture.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Glass.mat
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/batteryIndicator_mat.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Metal.mat
+- Assets/Materials/light blue.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/flower 2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/facade 2.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/SideWalk.006.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Pot_tree.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Drive_in_01.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/K9.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Material.001.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/grid.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Bus stop pole texture.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_shader0

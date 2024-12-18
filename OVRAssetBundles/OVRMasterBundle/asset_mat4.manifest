@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 2806574885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e26443df2dcf384b5a800d2ac9aab1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8e26443df2dcf384b5a800d2ac9aab1b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Materials/Colors_buildings/y_1.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/traffic light texture.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/flower 1 A 2.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Street.008.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Sideway.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/air conditioner roof.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/window frames.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/D2.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light 1 b.002.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/K7.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Black.mat
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Materials/Material.018.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/k12.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/can cola 1.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/brown.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/B1.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Metal.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/flower 3 texture.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/SideWalk.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Lines.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Roof.001.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 14.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Bus stop pole.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/trash bin texture.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Stone_02.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/grid.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/flower 1 A 7.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/parking meter texture_.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Facade_02.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/televserion antenna.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3

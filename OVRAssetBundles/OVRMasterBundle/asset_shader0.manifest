@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2819213659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f308b4a78145a8b7cb0d742b1e454c78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f308b4a78145a8b7cb0d742b1e454c78
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.core/Shaders/MetaLit.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/RoomModel/Shaders/TransparentTexture.shader
+- Assets/Materials/Shaders/DistortionShader.shader
+- Assets/Samples/Quirky Series Ultimate/_Shader/SoftSurface.shader
+Dependencies: []

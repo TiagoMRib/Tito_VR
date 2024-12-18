@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1730597105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb92acfe2a150ea8f976368533529811
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bb92acfe2a150ea8f976368533529811
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Materials/Colors_buildings/k11.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Roof_02.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/K6.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Car repair.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Floor.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/traffic_obj.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Windows.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/big trash bin texture.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/traffic_pot_texture.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/terrace.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Bench texture.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light 1 a.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/WhiteWood.mat
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Materials/Material.010.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/roof 1.mat
+- Assets/Samples/CityPack/Meshes,textures/traffic signs FBX/Materials/traffic sign
+  2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Window_frames_02.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/drain 1.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Door_05.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/i4.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Box.mat
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/windows2.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 8.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/plant 1 texture.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light 2 b.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/dirt.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Door_03.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Roof_04.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 5.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_shader0

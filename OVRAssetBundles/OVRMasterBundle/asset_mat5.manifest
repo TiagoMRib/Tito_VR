@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 958382762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a08ba8f52f993a262760614b88258b04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a08ba8f52f993a262760614b88258b04
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/Quirky Series Ultimate/FREE/Materials/M_Sparrow.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Grass.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Drive_in_02.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/televersion antenna.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Roof_01.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/stone 2.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/congregate_01.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Metal.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Stage_grass.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Windows_01.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Door_03.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Big_trash_bin.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/grass.mat
+- Assets/Materials/Glass.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Bush.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Bus stop.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/stone.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 13.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Window_frames.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/air conditioner roof.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/fire_escape_01.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Sideway.009.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/street 21.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Traffic_pot.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light  2 c.002.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/Grass 2.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Stone.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Wrench.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/K8.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/K13.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_shader0

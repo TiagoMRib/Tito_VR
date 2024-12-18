@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 1895260708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be033ebdf144d0ceca791a08a40902f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c0e00cfb9c8873b3a2ae9a0bf437df32
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: be033ebdf144d0ceca791a08a40902f6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/Letters FBX/Letter_L.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/fence c.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/StoneWay_04.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/wrench.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/wood pot.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProLeft_Material.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_O.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/ATM.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Bush 2.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_K.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/stone 2.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Bus stop pole.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/WalkWay 6.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Car_repair.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Left.fbx
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat10
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat11
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat12
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat13
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat14
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat5
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat6
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat7
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat8
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat9
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2

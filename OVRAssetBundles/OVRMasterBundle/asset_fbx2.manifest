@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 3019608369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6080aad5677e111624a47a2c0898110
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cccb361cb8dd51747182a6215ae63385
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f6080aad5677e111624a47a2c0898110
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Ch31_nonPBR@Walking.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Build_G-Right.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/tree_01.fbx
+- Assets/Meshes/V1.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_08.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/burger.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/televserion antenna.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/WalkWay_03.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Assets/Samples/CityPack/Meshes,textures/traffic signs FBX/parking sign.fbx
+- Assets/Samples/Quirky Series Ultimate/FREE/Models/Sparrow_LOD0.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/flower 2.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/bush.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/phone booth.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_C1.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/parking meter.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Police_station.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/WalkWay_02.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusRight_Material.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Grass_stone_02.fbx
+- Assets/Ch31_nonPBR.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/ColaMachine.fbx
+- Assets/Samples/CityPack/Meshes,textures/Letters FBX/Letter_T.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Materials/pasted_touchPBS_MAT.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_05.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/street_.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Bench 2.fbx
+- Assets/Ch31_nonPBR@Yelling Out.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_I_3.fbx
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat10
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat11
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat12
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat13
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat14
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat5
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat6
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat7
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat8
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat9
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2

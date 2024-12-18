@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 1577220485
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22eae28c519a7397ed8aeaeb3112d9d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c0e00cfb9c8873b3a2ae9a0bf437df32
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 22eae28c519a7397ed8aeaeb3112d9d3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Wall 1.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/shopping cart.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/MetaQuestTouchPlus_Left.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/platt 3 sign part.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Traffic_pot.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/drain 2.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/trashcan.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusLeft_Material.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/StoneStreet.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/flower 3.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Water tank.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/hedge_curve.fbx
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Gas_station_A.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/streetprop.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/platt 2 sign part.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/street_lamp 1.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/tree_holder.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/GlassCola.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_B1.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_D1.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_02.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Dynamic_power_pole_cable.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Traffic_light_1.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/MetaQuestTouchPlus_Right.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Build_G-Left.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Grass.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_04.fbx
+- Assets/Samples/Quirky Series Ultimate/FREE/Animations/Sparrow_Animations.fbx
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat10
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat11
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat12
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat13
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat14
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat5
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat6
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat7
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat8
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat9
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3

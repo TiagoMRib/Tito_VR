@@ -1,0 +1,126 @@
+ManifestFileVersion: 0
+CRC: 2430851487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fb90bc762060c20bbeeee9464e20064
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 716d80bbfd1ffbdca46f248f8952549e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1fb90bc762060c20bbeeee9464e20064
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf1b0a7658a090546b91a1a47a04acc1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41a8852992e26fa47b48cc8f7b2c04fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: caa4c01b689861e4aba9e3f89accd0c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/HotDog.prefab
+- Assets/Samples/CityPack/Prefabs/Lamps/street lamp 2 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/phone booth prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Sideway 12 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/stone pot prefab.prefab
+- Assets/Samples/CityPack/Prefabs/traffic signs/parking sign.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Water tank prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Stone 3 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/traffic signs/slow sign.prefab
+- Assets/Prefabs/InfoTrigger.prefab
+- Assets/Prefabs/EnvironmentController.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Sideway 7 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/trashBag prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Bus stop pole prefabe.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Dynamic_power_pole_cable prefab.prefab
+- Assets/Prefabs/NPC.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Sideway 5 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Building_D1_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Building_I_3_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Street 8 Prefab.prefab
+- Packages/com.meta.xr.sdk.core/Prefabs/OVRCameraRig.prefab
+- Assets/Samples/CityPack/Prefabs/Props/flower 2 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Street 12 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Building_B1_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Fence_B_2 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/WalkWay 6 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Building_O_PREFAB.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Wall 1 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Building_Q_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Flower 1 prefab G.prefab
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx5
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat10
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat11
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat12
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat13
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat14
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat5
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat6
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat7
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat8
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat9
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_wav0

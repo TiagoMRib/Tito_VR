@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 2162323791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bf42014b257c3530f7c00c78ee968f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cccb361cb8dd51747182a6215ae63385
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2bf42014b257c3530f7c00c78ee968f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_03.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/drain 1.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/WalkWay 5.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_B.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/WalkWay_04.fbx
+- Assets/Samples/CityPack/Meshes,textures/traffic signs FBX/stop sign.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_06.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Traffic_light_4.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Bus stop.fbx
+- Assets/Samples/CityPack/Meshes,textures/Letters FBX/Letter_O.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Flower 1.fbx
+- Assets/Samples/CityPack/Meshes,textures/traffic signs FBX/slow sign.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Fence_B_2.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_R.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Wall 5.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/StoneWay_01.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Wall 3.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/StoneWay_03.fbx
+- Assets/Samples/Quirky Series Ultimate/FREE/Models/Sparrow_LOD1.fbx
+- Assets/Samples/Quirky Series Ultimate/FREE/Models/Sparrow_LOD2.fbx
+- Assets/Samples/Quirky Series Ultimate/FREE/Models/Sparrow_LOD3.fbx
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/stone 3.fbx
+- Assets/Samples/CityPack/Meshes,textures/Letters FBX/Letter_P.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_01.fbx
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_09.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Build_G-Middle.fbx
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Lamp 7.fbx
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Building_I_1.fbx
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat10
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat11
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat12
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat13
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat14
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat5
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat6
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat7
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat8
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat9
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_tga0

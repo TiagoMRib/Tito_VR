@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3367570611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb120baa2cdc67a3264741116f673a98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bb120baa2cdc67a3264741116f673a98
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_05.png
+- Assets/Materials/Textures/Ch31_1001_Normal.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Mailbox-texture.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_13.png
+- Packages/com.unity.ai.navigation/Gizmos/NavMeshSurface Icon.png
+- Assets/Samples/CityPack/Meshes,textures/traffic signs FBX/parking sign.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/can cola 2.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_06.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Glass cola.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_21.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/drain 2.png
+- Assets/Materials/Textures/Ch31_1001_Diffuse.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/televersion antenna.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_l_lo_Normal.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/traffic warning stand texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/wood pot.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/bush 2.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/bench 2 texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/flower 3 texture 1.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_03.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_r_lo_Normal.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_12.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_08.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/air conditioner.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_07.png
+- Assets/Samples/Bublisher/3D Stylized Animated Dogs Kit/Textures/3D Stylized Animated
+  Dogs Kit - BaseColor.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/hot dog texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/shopping cart texture.png
+- Assets/Samples/CityPack/Meshes,textures/traffic signs FBX/slow sign texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/eletrcity box 1.png
+Dependencies: []

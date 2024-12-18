@@ -1,0 +1,112 @@
+ManifestFileVersion: 0
+CRC: 1849374801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4789e61eaa0d6dd09fe1ad6358ff7d36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9909e80a4d2536bc80984c8747d5c08c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4789e61eaa0d6dd09fe1ad6358ff7d36
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b1962797f403bb40a89fc8dcaccb6b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c91b666633dd251489bf25433698136d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Prefabs/Letters/Letter_T_Prefab.prefab
+- Assets/Samples/Bublisher/3D Stylized Animated Dogs Kit/Prefabs/chihuahua.prefab
+- Assets/Samples/CityPack/Prefabs/Props/StreetSellerStand prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Grass_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Hospital_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Police_station_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/BurgerSho_Sign prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/bench prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Walkway 2 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/StoneStreet prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Build_G-right_Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/stoneway 3.prefab
+- Assets/Samples/Quirky Series Ultimate/FREE/Prefabs/Sparrow.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Bin prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Grass_stone_2_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Walkway 4 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Power_poles prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Grass mass_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Wall 5 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Gas_station_A_PREFAB.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Flower 1 prefab A.prefab
+- Assets/Samples/CityPack/Prefabs/Letters/Letter_P_Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Stone 4 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Lamps/Lamp_4_prefab.prefab
+- Assets/Prefabs/Critters/NPCDogTriggerZone.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Flower 1 prefab F.prefab
+- Assets/Samples/CityPack/Prefabs/Props/electrcity box prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/trashcan prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Building_Z_Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/drain 2 prefab.prefab
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat10
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat12
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat13
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat14
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat5
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat6
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat7
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat8
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat9
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_overridecontroller0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_wav0

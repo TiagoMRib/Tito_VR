@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 4158805675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa5fa783f26bd9d2d2dd232706800a95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aa5fa783f26bd9d2d2dd232706800a95
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/drink_machine_texture.png
+- Packages/com.meta.xr.sdk.core/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/pot_plant_leaf.png
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Car_repair_texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Food_seller_stand_textureAD.png
+- Assets/Materials/Textures/illumination.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/grass.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPlus/MetaQuestTouchPlus_Right_BaseColor_AO_AlphaRoughness.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/traffic_pot_texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Flower 1 purple 1.png
+- Assets/Samples/Quirky Series Ultimate/FREE/Textures/T_Sparrow.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/traffic light texture.png
+- Assets/Materials/Textures/Ch31_1002_Diffuse.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_02.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/air conditioner roof.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Flower 1 organ 1.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/bush leafes.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_01.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_14.png
+- Assets/Materials/Textures/Ch31_1001_Glossiness.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Power pole texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Hydrant.png
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Fire_department_texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/flower 2 texture 1.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/BurgerShop_sign.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Flower 1 purple mix 1.png
+- Assets/Samples/Bublisher/3D Stylized Animated Dogs Kit/Textures/3D Stylized Animated
+  Dogs Kit - Normal.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Sidewalk_texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/water tank texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/leafes tree 1.png
+Dependencies: []

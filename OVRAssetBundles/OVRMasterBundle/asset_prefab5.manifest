@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 4181186135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a2dd211389205f31e70e83f47b8a7a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f64c2afe2327d3e52789a45f0df728a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7a2dd211389205f31e70e83f47b8a7a0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e96deb45f9867a4f85304fd571cffc3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: caa4c01b689861e4aba9e3f89accd0c9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Prefabs/Props/bush prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Fence_B_1 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/ColaMachine prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/burger prefab.prefab
+- Assets/Prefabs/Critters/BirdFlock.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Sideway 11 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/platt sign 3 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Lamps/Lamp_2_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/platt sign 2 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Street 5 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/flower 3 prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Flower 1 prefab E.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Street 14 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Parking_barrier prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Street 4 grey 2M prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Walkway 1 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/hedge_curve prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Street 4 2M prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Street 3 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Flower 1 prefab H.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Street 4 8M prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Floor/Street 4 Prefab.prefab
+- Assets/Samples/CityPack/Prefabs/traffic signs/stop sign.prefab
+- Assets/Samples/CityPack/Prefabs/Lamps/Lamp_3_prefab.prefab
+- Assets/Samples/CityPack/Prefabs/Props/Flower 1 prefab B.prefab
+- Assets/Samples/CityPack/Prefabs/Buildings/Building_M_prefab.prefab
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat10
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat11
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat12
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat13
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat4
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat6
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat7
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat8
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_mat9
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_prefab3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_prefab4

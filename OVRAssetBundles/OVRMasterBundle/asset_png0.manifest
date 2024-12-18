@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3619365901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 482dc48884244ab8b227758bff7fd495
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 482dc48884244ab8b227758bff7fd495
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Shop_C_texture.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPlus/MetaQuestTouchPlus_Normals.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/dirt.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPlus/MetaQuestTouchPlus_Metallic.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPlus/MetaQuestTouchPlus_Left_BaseColor_AO_AlphaRoughness.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Food_seller_texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Can_Cola.png
+- Assets/Materials/Textures/Tex.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/parking meter texture .png
+- Assets/Samples/Bublisher/3D Stylized Animated Dogs Kit/Textures/3D Stylized Animated
+  Dogs Kit - MetallicSmoothness.png
+- Assets/Materials/Textures/Ch31_1001_Specular.png
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Street_19.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/power pole cable texture.png
+- Assets/Samples/CityPack/Meshes,textures/traffic signs FBX/stop_sign.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/drain 3.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/fence 3 texture 1.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/bus stop sign texture 1.png
+- Packages/com.meta.xr.sdk.core/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Flower 1 red mix 1.png
+- Assets/Materials/MoonPNG.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_l_lo_BaseColor.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/big trash bin texture.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/batteryIndicatorTexture32.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/phone booth texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Bench texture.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Flower 1 light blue+ 1.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Can_Orange.png
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/bus stop texture.png
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Gas_pump_texture.png
+Dependencies: []

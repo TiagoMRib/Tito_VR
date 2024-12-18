@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1642795450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c4d20d82715114843529d35f44ead36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0c4d20d82715114843529d35f44ead36
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/CityPack/Materials/Material_meshs/can_orange.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/WindowFrame.mat
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusMATphong_left.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/fire_escape_02.mat
+- Assets/Materials/SunMaterial.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Texture.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Sign_02.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/water tank 2.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Grass.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/Material.004.mat
+- Assets/Samples/CityPack/Materials/traffic light/Red.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/anger Stone 1.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/bus stop texture.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Facade_02.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/flower 1 A 1.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/light 1 a.002.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/air conditioner wall.mat
+- Assets/Samples/CityPack/Materials/Colors_buildings/K4.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Stone.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/SideWalk.010.mat
+- Assets/Samples/CityPack/Meshes,textures/Shops_FBX/Materials/Info_sign_01.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/door 3.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Sideway.008.mat
+- Assets/Samples/CityPack/Meshes,textures/ways_FBX/Materials/Sideway.011.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/stone 2.002.mat
+- Assets/Samples/CityPack/Meshes,textures/props_FBX/Materials/coke_machine_texture.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/Material.001.mat
+- Assets/Samples/CityPack/Meshes,textures/Buildings_FBX/Materials/window 1.mat
+- Assets/Samples/CityPack/Materials/Material_meshs/parking meter.mat
+- Assets/Samples/CityPack/Meshes,textures/lamps fbx/Materials/Material.011.mat
+Dependencies:
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Utilizador/DEV/Vrproj/VR_Project/OVRAssetBundles/OVRMasterBundle/asset_shader0
