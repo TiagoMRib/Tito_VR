@@ -12,6 +12,8 @@ public class NPCDog : MonoBehaviour
     private NavMeshAgent navAgent; // NavMeshAgent for movement
     private bool isTriggered = false;
 
+    private bool isBarking = false;
+
     void Start()
     {
         // Ensure NavMeshAgent is attached to the dog
@@ -77,11 +79,14 @@ private void ReachTarget()
     }
 
     // Play barking sound
-    if (audioSource != null && barkingClip != null)
+    if (audioSource != null && barkingClip != null && !isBarking)
     {
-        Debug.Log("NPCDog is barking!");
+        isBarking = true;
         audioSource.clip = barkingClip;
         audioSource.Play();
+
+        
+
     }
 }
 
