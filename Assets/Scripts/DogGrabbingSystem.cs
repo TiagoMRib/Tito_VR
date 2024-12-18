@@ -9,6 +9,8 @@ public class DogGrabSystem : MonoBehaviour
 
     private GameObject grabbedObject = null; // Current object in mouth
 
+    public AudioSource audioSource;      // Reference to the AudioSource
+    public AudioClip eatSound; 
     public void HandleGrabAction()
     {
         Debug.Log("Grab action performed!");
@@ -46,6 +48,9 @@ public class DogGrabSystem : MonoBehaviour
                 grabbedObject = collider.gameObject;
                 grabbedObject.transform.SetParent(mouthTransform);
                 grabbedObject.transform.localPosition = Vector3.zero;
+                grabbedObject.transform.rotation *= Quaternion.Euler(0, -62, 0);
+                grabbedObject.transform.localPosition = new Vector3(0, 0, 0.5f);
+
 
                 // Disable physics while in mouth
                 Rigidbody rb = grabbedObject.GetComponent<Rigidbody>();
@@ -93,6 +98,8 @@ public class DogGrabSystem : MonoBehaviour
             infoDisplay.ShowMessage("");
 
             grabbedObject = null;
+
+            audioSource.PlayOneShot(eatSound);
 
             Debug.Log("Hot dog eaten!");
         }

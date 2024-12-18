@@ -11,7 +11,9 @@ public class NPCShouter : MonoBehaviour
     public float shoutDuration = 2f;     // Duration of the shout animation/sound
 
     private NavMeshAgent navAgent;       // NavMeshAgent for NPC movement
-    private bool isTriggered = false;    // Tracks whether the NPC has been triggered
+    private bool isTriggered = false;
+    
+    private bool isShouting = false;    // Tracks whether the NPC has been triggered
 
     void Start()
     {
@@ -44,7 +46,7 @@ public class NPCShouter : MonoBehaviour
         if (!isTriggered)
         {
             isTriggered = true;
-
+            isShouting = true;
             // Start walking animation
             if (animator != null)
             {
@@ -98,6 +100,7 @@ public class NPCShouter : MonoBehaviour
     {
         isTriggered = false;
         animator.SetBool("playerNear",false);
+        isShouting = false;
         
     }
 }

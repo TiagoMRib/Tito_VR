@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.SceneManagement;
+using System.Collections;
 public class NPCAdopter : MonoBehaviour
 {
     public string playerTag = "Player";  
@@ -25,14 +26,11 @@ public class NPCAdopter : MonoBehaviour
             Debug.LogError("Animator is not assigned to the NPCAdopter script.");
         }
 
-        
         if (destinationPoint == null)
         {
-            Debug.LogError("Destination point is not assigned to the NPCShouter script.");
+            Debug.LogError("Destination point is not assigned to the NPCAdopter script.");
         }
         animator.SetBool("isWalking", false);
-
-       
     }
 
     public void TriggerAdopter()
@@ -50,23 +48,18 @@ public class NPCAdopter : MonoBehaviour
             // Command the NavMeshAgent to move to the player's position
             if (navAgent != null)
             {
-               
                 navAgent.SetDestination(destinationPoint.position);
-                
             }
         }
     }
 
     void Update()
     {
-        
         if (isTriggered && navAgent != null && !navAgent.pathPending)
         {
-            Debug.Log("dentro");
-            // Check if the adopter has reached the player
+            // Check if the adopter has reached the destination
             if (navAgent.remainingDistance <= navAgent.stoppingDistance)
             {
-                Debug.Log("reach");
                 ReachPlayer();
             }
         }
@@ -74,28 +67,24 @@ public class NPCAdopter : MonoBehaviour
 
     private void ReachPlayer()
     {
-        
-
-        Debug.Log("NPCAdopter has reached the player.");
-
-        // Stop walking animation
         if (animator != null)
         {
+            // Stop walking animation and trigger the knelling animation
             animator.SetBool("isWalking", false);
-
-            // Trigger the picking up player animation
-            animator.SetBool("knell",true); 
+            animator.SetBool("knell", true); 
         }
 
-
-        PickUpPlayer();
+        // Delay ending the game by 3 seconds
+        StartCoroutine(PickUpPlayer());
     }
 
-    private void PickUpPlayer()
+    private IEnumerator PickUpPlayer()
     {
+        Debug.Log("NPCAdopter is picking up the player. Waiting for 3 seconds...");
         
-        Debug.Log("NPCAdopter is picking up the player. Game finished!");
-
+        // Wait for 3 seconds before ending the game
+        yield return new WaitForSeconds(3f);
+        
         EndGame();
     }
 
@@ -104,6 +93,5 @@ public class NPCAdopter : MonoBehaviour
         // Load new scene
         Debug.Log("Game Over: Player has been picked up!");
         SceneManager.LoadScene("MainMenu");
-
     }
 }
