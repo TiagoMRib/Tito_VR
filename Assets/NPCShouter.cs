@@ -36,6 +36,7 @@ public class NPCShouter : MonoBehaviour
         {
             Debug.LogError("Destination point is not assigned to the NPCShouter script.");
         }
+        animator.SetBool("isWalking", false);
     }
 
     public void TriggerShout()
@@ -47,7 +48,7 @@ public class NPCShouter : MonoBehaviour
             // Start walking animation
             if (animator != null)
             {
-                animator.SetBool("Walking", true);
+                animator.SetBool("isWalking", true);
             }
 
             // Command the NavMeshAgent to move to the destination point
@@ -77,10 +78,10 @@ public class NPCShouter : MonoBehaviour
         // Stop walking animation
         if (animator != null)
         {
-            animator.SetBool("Walking", false);
+            animator.SetBool("isWalking", false);
 
             // Trigger the shouting animation
-            animator.SetTrigger("Shout");
+            animator.SetBool("playerNear",true);
         }
 
         // Play shouting sound
@@ -96,12 +97,8 @@ public class NPCShouter : MonoBehaviour
     private void ResetNPC()
     {
         isTriggered = false;
-
-        // Reset animations if needed (optional, depending on Animator setup)
-        if (animator != null)
-        {
-            animator.ResetTrigger("Shout");
-        }
+        animator.SetBool("playerNear",false);
+        
     }
 }
 

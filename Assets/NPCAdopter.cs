@@ -1,16 +1,14 @@
 using UnityEngine;
 using UnityEngine.AI;
-
+using UnityEngine.SceneManagement;
 public class NPCAdopter : MonoBehaviour
 {
     public string playerTag = "Player";  
     public Animator animator;             
-    public AudioSource audioSource;     
-    public AudioClip pickupSound;         
-
     private NavMeshAgent navAgent;        
     private bool isTriggered = false;    
 
+    public Transform destinationPoint;
     private GameObject player;            // Reference to the player object
 
     void Start()
@@ -27,10 +25,14 @@ public class NPCAdopter : MonoBehaviour
             Debug.LogError("Animator is not assigned to the NPCAdopter script.");
         }
 
-        if (audioSource == null)
+        
+        if (destinationPoint == null)
         {
-            Debug.LogError("AudioSource is not assigned to the NPCAdopter script.");
+            Debug.LogError("Destination point is not assigned to the NPCShouter script.");
         }
+        animator.SetBool("isWalking", false);
+
+       
     }
 
     public void TriggerAdopter()
@@ -42,28 +44,29 @@ public class NPCAdopter : MonoBehaviour
             // Start walking animation
             if (animator != null)
             {
-                animator.SetBool("Walking", true);  
+                animator.SetBool("isWalking", true);  
             }
 
             // Command the NavMeshAgent to move to the player's position
             if (navAgent != null)
             {
-                player = GameObject.FindGameObjectWithTag(playerTag);  // Find the player object in the scene
-                if (player != null)
-                {
-                    navAgent.SetDestination(player.transform.position);
-                }
+               
+                navAgent.SetDestination(destinationPoint.position);
+                
             }
         }
     }
 
     void Update()
     {
+        
         if (isTriggered && navAgent != null && !navAgent.pathPending)
         {
+            Debug.Log("dentro");
             // Check if the adopter has reached the player
             if (navAgent.remainingDistance <= navAgent.stoppingDistance)
             {
+                Debug.Log("reach");
                 ReachPlayer();
             }
         }
@@ -71,25 +74,19 @@ public class NPCAdopter : MonoBehaviour
 
     private void ReachPlayer()
     {
-        if (player == null) return;
+        
 
         Debug.Log("NPCAdopter has reached the player.");
 
         // Stop walking animation
         if (animator != null)
         {
-            animator.SetBool("Walking", false);
+            animator.SetBool("isWalking", false);
 
             // Trigger the picking up player animation
-            animator.SetTrigger("PickUp"); 
+            animator.SetBool("knell",true); 
         }
 
-        // Play pickup sound
-        if (audioSource != null && pickupSound != null)
-        {
-            audioSource.clip = pickupSound;
-            audioSource.Play();
-        }
 
         PickUpPlayer();
     }
@@ -106,5 +103,7 @@ public class NPCAdopter : MonoBehaviour
     {
         // Load new scene
         Debug.Log("Game Over: Player has been picked up!");
+        SceneManager.LoadScene("Menu");
+
     }
 }
