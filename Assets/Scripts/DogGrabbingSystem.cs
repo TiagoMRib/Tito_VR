@@ -1,37 +1,15 @@
 using UnityEngine;
-//using UnityEngine.InputSystem;
+using Oculus.Interaction;
+using Oculus.Interaction.Input;
 
 public class DogGrabSystem : MonoBehaviour
 {
-    /*
     public Transform mouthTransform; // Reference to the "mouth" transform
-    public InputActionReference grabAction; // Reference to the grab input action
-    public InputActionReference eatAction; // Reference to the eat input action
     public InfoDisplay infoDisplay; // Reference to the InfoDisplay script for task messages
 
     private GameObject grabbedObject = null; // Current object in mouth
 
-    void OnEnable()
-    {
-        // Enable input actions
-        grabAction.action.Enable();
-        grabAction.action.performed += HandleGrabAction;
-
-        eatAction.action.Enable();
-        eatAction.action.performed += HandleEatAction;
-    }
-
-    void OnDisable()
-    {
-        // Disable input actions
-        grabAction.action.Disable();
-        grabAction.action.performed -= HandleGrabAction;
-
-        eatAction.action.Disable();
-        eatAction.action.performed -= HandleEatAction;
-    }
-
-    private void HandleGrabAction(InputAction.CallbackContext context)
+    public void HandleGrabAction()
     {
         Debug.Log("Grab action performed!");
         if (grabbedObject == null)
@@ -44,7 +22,7 @@ public class DogGrabSystem : MonoBehaviour
         }
     }
 
-    private void HandleEatAction(InputAction.CallbackContext context)
+    public void HandleEatAction()
     {
         if (grabbedObject != null)
         {
@@ -119,5 +97,4 @@ public class DogGrabSystem : MonoBehaviour
             Debug.Log("Hot dog eaten!");
         }
     }
-    */
 }
